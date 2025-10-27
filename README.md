@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://saludjays1502.github.io/.github/toast-titanium">
+<a href="https://mayumemi0104.github.io/.github/toast-titanium">
 <img src="https://img.shields.io/badge/GET_Toast_Titanium-darkgreen?style=for-the-badge&logo=apple" alt="GET Toast Titanium">
 </a>
 </div>
